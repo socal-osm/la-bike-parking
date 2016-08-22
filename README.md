@@ -1,4 +1,4 @@
-# la-bike-parking
+# Add L.A. city's bike parking data to OSM
 Import of the city's bicycle parking spots that LADOT has installed on sidewalks
 
 ## Next steps
